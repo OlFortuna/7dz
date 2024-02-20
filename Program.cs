@@ -47,3 +47,26 @@ int Akkerman(int m, int n)
         return (Akkerman(m - 1, Akkerman(m, n - 1)));
     }
 }
+
+
+// Задача 3: Задайте произвольный массив.
+// Выведете его элементы, начиная с конца.
+// Использовать рекурсию, не использовать циклы.
+
+internal static class ReverseArray 
+{ 
+    private static void Main(string[] args) 
+    { 
+        int[] num = {1, 7, 3, 0, 43, 37}; 
+        ReverseArray.Reverse(num, num.Length - 1); 
+    }
+    public static void Reverse<T>(T[] array, int count) 
+    { 
+        if (count > 0) 
+        { 
+            Console.WriteLine(array[count]); 
+            Reverse(array, count - 1); 
+        } 
+        else { Console.WriteLine(array[0]); }
+    }
+}
