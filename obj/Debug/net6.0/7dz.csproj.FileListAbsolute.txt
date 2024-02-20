@@ -1,0 +1,15 @@
+/Users/olgafortuna/Desktop/gb/2301new/7dz/bin/Debug/net6.0/7dz
+/Users/olgafortuna/Desktop/gb/2301new/7dz/bin/Debug/net6.0/7dz.deps.json
+/Users/olgafortuna/Desktop/gb/2301new/7dz/bin/Debug/net6.0/7dz.runtimeconfig.json
+/Users/olgafortuna/Desktop/gb/2301new/7dz/bin/Debug/net6.0/7dz.dll
+/Users/olgafortuna/Desktop/gb/2301new/7dz/bin/Debug/net6.0/7dz.pdb
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.csproj.AssemblyReference.cache
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.AssemblyInfoInputs.cache
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.AssemblyInfo.cs
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.csproj.CoreCompileInputs.cache
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.dll
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/refint/7dz.dll
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.pdb
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/7dz.genruntimeconfig.cache
+/Users/olgafortuna/Desktop/gb/2301new/7dz/obj/Debug/net6.0/ref/7dz.dll
